@@ -1,4 +1,4 @@
-name: artigo-iccsa2
+name: iccsa2025_deepxde
 channels:
   - conda-forge
   - defaults
